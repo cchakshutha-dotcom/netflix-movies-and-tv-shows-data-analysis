@@ -59,7 +59,14 @@ Netflix-Data-Analysis-Project-2025/
    - 🎬 Least Popular Movies
    - 📅 Yearly Movie Releases (histogram)
    - 🌟 Average Popularity by Genre (bar plot)
+# 🛠 Technologies Used
 
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
 ---
 
 ## ⚙️ How to Run
@@ -94,7 +101,22 @@ When you run the notebook, you will see:
 - Genre expanded → **~19,000+ rows** after explode
 - **4 charts** rendered inline in the notebook
 - `transformed_netflixdata.csv` saved to the same folder
+Dataset loaded with 9,827 rows and 9 columns
+Dataset successfully loaded and analyzed using Python.
+---
+
+Inspired by publicly available Netflix data science tutorials and further enhanced with additional analysis and visualizations.
+
 
 ---
 
-*Project recreated from TheiScale YouTube tutorial — Netflix Data Analysis 2025*
+# 👩‍💻 Author
+
+## Chakshutha S
+
+Artificial Intelligence and Data Science Engineering Student
+
+GitHub:
+chakshutha-dotcom
+
+---

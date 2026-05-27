@@ -1,21 +1,169 @@
-MIT License
+# Netflix Data Analysis Project 2025
 
-Copyright (c) 2026 Chakshutha 
+## Project Overview
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This project focuses on analyzing Netflix movies and TV shows using Python-based data science techniques. The project performs data cleaning, transformation, exploratory data analysis (EDA), and visualization to identify trends, genre popularity, voting patterns, and yearly release statistics.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+The analysis helps understand user preferences, content distribution, and streaming trends on Netflix.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+---
+
+# Features
+
+- Netflix dataset analysis
+- Data preprocessing and cleaning
+- Exploratory Data Analysis (EDA)
+- Genre distribution analysis
+- Genre popularity visualization
+- Vote category analysis
+- Year-wise release trend analysis
+- Data visualization using graphs and charts
+
+---
+
+# Technologies Used
+
+## Programming Language
+- Python
+
+## Libraries Used
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+---
+
+# Dataset Information
+
+The project uses Netflix movie and TV show datasets containing:
+
+- Movie titles
+- Genres
+- Ratings
+- Popularity scores
+- Release years
+- Vote averages
+- Vote counts
+
+Dataset Files:
+
+- mymoviedb.csv
+- transformed_netflixdata.csv
+
+---
+
+# Data Analysis Performed
+
+## 1. Data Cleaning
+
+- Removed null values
+- Handled duplicate records
+- Transformed dataset columns
+- Processed genre-related information
+
+---
+
+## 2. Genre Distribution Analysis
+
+The project visualizes the distribution of Netflix content across different genres.
+
+---
+
+## 3. Genre Popularity Analysis
+
+Analyzed which genres are most popular among Netflix users.
+
+---
+
+## 4. Vote Category Analysis
+
+Classified movies based on vote categories and audience ratings.
+
+---
+
+## 5. Yearly Release Analysis
+
+Analyzed the number of movies and shows released yearly.
+
+---
+
+# Project Workflow
+
+Dataset Collection
+↓
+Data Cleaning
+↓
+Data Transformation
+↓
+Exploratory Data Analysis
+↓
+Visualization
+↓
+Insights Generation
+
+---
+
+# How to Run the Project
+
+## Step 1
+Install Python.
+
+## Step 2
+Install required libraries:
+
+pip install pandas numpy matplotlib seaborn notebook
+
+## Step 3
+Open Jupyter Notebook:
+
+jupyter notebook
+
+## Step 4
+Run:
+
+Netflix_Data_Analysis.ipynb
+
+---
+
+# Applications
+
+- Streaming platform analytics
+- Entertainment industry analysis
+- Recommendation system research
+- Data science learning project
+- Visualization practice project
+
+---
+
+# Future Enhancements
+
+- Add machine learning recommendation system
+- Build interactive dashboard
+- Add real-time Netflix data analysis
+- Deploy using Streamlit or Flask
+- Add sentiment analysis for reviews
+
+---
+
+# Conclusion
+
+This Netflix Data Analysis project demonstrates the use of Python and data science techniques for extracting meaningful insights from streaming platform datasets.
+
+---
+
+# Author
+
+## Chakshutha S
+
+Artificial Intelligence and Data Science Engineering Student
+
+GitHub:
+chakshutha-dotcom
+
+---
+
+# License
+
+This project is licensed under the MIT License.

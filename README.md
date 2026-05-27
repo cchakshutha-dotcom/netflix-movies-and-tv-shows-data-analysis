@@ -2,7 +2,7 @@
 
 A full Data Science project analyzing Netflix movies using Python.
 
-**Source Video:** [Full Data Science Project: Netflix Data Analysis – TheiScale (YouTube)](https://youtu.be/tjIWRqqMDaw)
+Inspired by publicly available Netflix data science tutorials and further enhanced with additional analysis and visualizations.
 
 ---
 
